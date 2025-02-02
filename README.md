@@ -65,9 +65,9 @@ The project analyzes five Excel files provided as input datasets. These files co
   
   - umemployeed.ipynb
 
-  -receipts-visitors.ipynb
+  - receipts-visitors.ipynb
 
-  -nps_visitors_receipts_per_store
+  - nps_visitors_receipts_per_store
 
 ## Results
 
