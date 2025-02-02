@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains the analysis and insights derived from five Excel files provided for this project. The focus is on analyzing and optimizing staffing and scheduling data. The repository includes three Jupyter Notebook scripts, each with a specific purpose.
+This repository contains the analysis and insights derived from five Excel files provided for this project. The focus is on analyzing and optimizing staffing and scheduling data and also on purchase frequency and correlation of the NPS indicator . The repository includes five Jupyter Notebook scripts, each with a specific purpose.
 
 ## Files in the Repository
 
@@ -22,6 +22,14 @@ Purpose: Detailed staffing analysis, focusing on: Shift management, Seasonal tre
 
 Purpose: Additional analysis on unemployment-related data, Overstaffing and understaffing insights and other relevant workforce metrics.
 
+4. **receipts-visitors.ipynb**
+
+Purpose: Analysis of peak hours per day and average traffic and sales per month for each store separately for perception of buying behaviour.
+
+5. **nps_visitors_receipts_per_store**
+
+Purpose: Comparison of NPS and purchase rate per store and general comparison of traffic and sales between all stores to find differences and patterns.
+
 ## Data Files
 
 The project analyzes five Excel files provided as input datasets. These files contain:
@@ -35,6 +43,9 @@ The project analyzes five Excel files provided as input datasets. These files co
 **Staffing Analysis**: Provides insights into workforce requirements, inefficiencies, and optimization strategies.
 
 **Scheduling Optimization**: Helps in creating optimal schedules that minimize costs while addressing seasonal and operational demands.
+
+**Analysis of purchase frequency and correlation of the NPS indicator**
+
 
 ## How to Use
 
@@ -53,6 +64,10 @@ The project analyzes five Excel files provided as input datasets. These files co
   - data_deep_schedule.ipynb
   
   - umemployeed.ipynb
+
+  -receipts-visitors.ipynb
+
+  -nps_visitors_receipts_per_store
 
 ## Results
 
